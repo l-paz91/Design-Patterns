@@ -6,10 +6,6 @@
 
 	Chapter 2 - Observer Pattern
 
-	The Strategy Pattern defines a family of algorithms, encapsulates each one,
-	and makes them interchangeable. Strategy lets the algorithm vary independently
-	from clients that use it.
-
 	Note - This book uses Java. I have adapted the code samples given in the book
 	to use C++ instead.
 */
